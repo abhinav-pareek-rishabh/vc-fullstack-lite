@@ -1380,7 +1380,7 @@ paths:
       operationId: getAllAudienceCategoryGroup
       tags:
         - Audience Category Group
-      summary: Get All Audience Category Group
+      summary: Get All Audience Category Groups
       description: Returns list of Audience Category Group
       parameters:
         - in: header
